@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://www.shareicon.net/data/256x256/2016/05/24/770117_people_512x512.png",
+    "name": "Vova",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://www.shareicon.net/data/256x256/2016/05/24/770117_people_512x512.png",
+    "name": "Sara",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://www.shareicon.net/data/256x256/2016/05/24/770117_people_512x512.png",
+    "name": "Mike",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://www.shareicon.net/data/256x256/2016/05/24/770117_people_512x512.png",
+    "name": "Bob",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://www.shareicon.net/data/256x256/2016/05/24/770117_people_512x512.png",
+    "name": "Sveta",
+    "isOnline": false,
+    "id": 1284
+  }
+]

@@ -1,0 +1,30 @@
+.profile {
+    margin-right: 10px;
+    padding: 10px;
+
+    .description {
+        padding-right: 50px;
+
+        .name {
+            font-size: 1.5em;
+        }
+
+        .tag, .location  {
+            font-size: 1.2em;
+            background-color: rgb(180, 144, 66);
+            box-shadow: 15px 15px 10px rgba(0,0,0, 0.2);
+        }
+    }
+
+    .stats {
+        list-style: none;
+
+        li {
+            margin-bottom: 10px;
+
+            .quantity {
+                font-size: 1.1em;
+            }
+        }
+    }
+}
